@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Daniel Troncoso</h1>
-<h3 align="center">Full-Stack Developer Junior</h3>
+<h1 align="center">Hi 👋, I'm Daniel Troncoso</h1>
+<h3 align="center">Full-Stack Developer Jr</h3>
 
-- 🔭 Recientemente estuve trabajando en [BikeMeApp](https://github.com/DanielTroncosoG/ProyectoFinal)
+- 🔭 Final Code Camp Project [BikeMeApp](https://github.com/DanielTroncosoG/ProyectoFinal)
 
-- 🌱 Estoy empezando en el área de la programación **Front-End and Back-end**
+- 🌱 1 Year experience as a Full Stack developer  **Front-End and Back-end**
 
-- 📫 Contáctame **di.trgonzalez@gmail.com**
+- 📫 Contact me at **di.trgonzalez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
